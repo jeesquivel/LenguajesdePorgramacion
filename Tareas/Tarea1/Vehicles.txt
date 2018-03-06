@@ -1,0 +1,17 @@
+ABC-123;Nissan Sentra;AMARILLO;123;2017;0.0;0
+;Corvet mierc;Verde;120;2013;123.0;0
+;Corvet mierc;Verde;120;2013;123.0;0
+;Corvet mierc;Verde;120;2013;123.0;0
+;Corvet mierc;Verde;120;2013;123.0;0
+;Corvet mierc;Verde;120;2013;123.0;0
+;Corvet mierc;Verde;120;2013;123.0;0
+;Corvet mierc;Verde;120;2013;123.0;0
+;Corvet mierc;Verde;120;2013;123.0;0
+;Corvet mierc;Verde;120;2013;123.0;0
+;Corvet mierc;Verde;120;2013;123.0;0
+;Corvet mierc;Verde;120;2013;123.0;0
+;CHEVROLET AVEO;AMARILLO;140;2014;12.0;0
+;CHEVROLET AVEO;AMARILLO;140;2014;12.0;0
+;CHEVROLET AVEO;AMARILLO;140;2014;12.0;0
+;CHEVROLET AVEO;AMARILLO;140;2014;12.0;0
+;CHEVROLET AVEO;AMARILLO;140;2014;12.0;0
